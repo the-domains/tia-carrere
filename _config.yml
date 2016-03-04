@@ -1,6 +1,6 @@
 name: Tia Carrere
 favicon: null
-layout_spectrum: 0.08654
+layout_spectrum: 1
 typography_spectrum: 0.20222
 title: Tia Carrere is an American actress and Grammy Award winning singer.
 cta:
@@ -22,8 +22,8 @@ color:
     - '#703511'
     - '#a46030'
     - '#7f7b69'
-  brandStrength: 0.25
+  brandStrength: 1
   lightness: 0.4375
-  saturation: 0.75
+  saturation: 0.5
   rhythmicContrast: 0.25
 purpose: []

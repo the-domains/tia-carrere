@@ -2,17 +2,24 @@
     <channel>
         <title><![CDATA[Tia Carrere is an American actress, songwriter, film producer and actress.]]></title>
         <description><![CDATA[Tia Carrere is an American actress, songwriter, film producer and actress.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tia-carrere/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 02:46:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 02:52:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tia-carrere/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/daa6e61a-ab64-40b4-ac15-982c10372087.jpg">]]></description>
+            <link>https://thegrid.ai/tia-carrere/5f39d4bc-7508-428b-bee0-a85febde651a/index.html</link>
+            <guid isPermaLink="false">5f39d4bc-7508-428b-bee0-a85febde651a</guid>
+            <pubDate>Fri, 04 Mar 2016 02:50:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Tia Carrere’s films have scored more than $750 million in
 worldwide box office sales, starring alongside actors including Sean Connery,
 Arnold Schwarzenegger and Mike Myers in “Rising Sun,” “True Lies” and both
 installments of “Wayne’s World”.</p>]]></description>
-            <link>undefined79fd50ae-dd12-4ff4-b96b-2943dbb8fe56/index.html</link>
+            <link>https://thegrid.ai/tia-carrere/79fd50ae-dd12-4ff4-b96b-2943dbb8fe56/index.html</link>
             <guid isPermaLink="false">79fd50ae-dd12-4ff4-b96b-2943dbb8fe56</guid>
             <pubDate>Fri, 04 Mar 2016 02:45:42 GMT</pubDate>
         </item>

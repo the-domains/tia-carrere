@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Tia Carrere Returns to her Musical Roots\_"
-datePublished: '2016-03-09T00:19:27.282Z'
-dateModified: '2016-03-09T00:18:52.973Z'
+datePublished: '2016-03-09T00:26:24.491Z'
+dateModified: '2016-03-09T00:24:25.496Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-09-tia-carrere-returns-to-her-musical-roots.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-09-tia-carrere-returns-to-her-musical-roots.md
-published: true
 url: tia-carrere-returns-to-her-musical-roots/index.html
 _type: Article
 
